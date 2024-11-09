@@ -57,6 +57,7 @@ const GlobalStyles = createGlobalStyle`
     --color-delete: #A64D4D;
     --color-text-principal: #f5f5f5;
     --color-text-description: #d1cdc5;
+    --color-sucess: #229A00
   }
 
 `;
