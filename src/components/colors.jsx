@@ -50,13 +50,6 @@ const Colors = () => {
         </div>
         {/* <button className="botao">Nova Tarefa</button> */}
       </div>
-      <div className="content-dois">
-        <div>Fundo principal </div>
-        <div>Caixa de tarefas</div>
-        <div>Texto Principal</div>
-        <div>bordas e linha divisórias</div>
-        <div>botões de ação</div>
-      </div>
     </div>
   );
 };
