@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Limpar a mesa",
+    "description": "Remover papéis e itens desnecessários da mesa."
+  },
+  {
+    "title": "Revisar emails",
+    "description": "Verificar e responder emails pendentes da semana."
+  },
+  {
+    "title": "Atualizar agenda",
+    "description": "Inserir novos compromissos e ajustar prazos."
+  },
+  {
+    "title": "Planejar reunião",
+    "description": "Organizar tópicos e enviar convite para a equipe."
+  },
+  {
+    "title": "Fazer backup",
+    "description": "Realizar o backup dos arquivos importantes no servidor."
+  }
+]

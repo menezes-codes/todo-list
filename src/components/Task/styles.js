@@ -15,8 +15,6 @@ export const Container = styled.div`
 export const Text = styled.div`
   display: flex;
   flex-direction: column;
-  align-items: start;
-  justify-content: center;
 
   h2 {
     color: var(--color-text-principal);
@@ -37,5 +35,5 @@ export const Button = styled.button`
   cursor: pointer;
   border: none;
   font-size: 16px;
-  color: ${({ color }) => color}; /* Usa prop para cor */
+  color: ${({ color }) => color};
 `;

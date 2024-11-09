@@ -1,8 +1,6 @@
-// src/css/GlobalStyles.js
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyles = createGlobalStyle`
-  /* Reset CSS Simples */
   *,
   *::before,
   *::after {
@@ -12,7 +10,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   html, body, #root {
-    min-height: 100vh; /* Garante altura total da tela sem forçar o scroll */
+    min-height: 100vh;
     width: 100%;
     background-color: var(--color-background);
   }

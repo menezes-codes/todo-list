@@ -1,13 +1,11 @@
-import Colors from "./components/colors";
-import Task from "./components/Task";
+import List from "./components/List";
 import GlobalStyles from "./css/GlobalStyles";
 
 function App() {
   return (
     <div>
       <GlobalStyles />
-      <Colors />
-      <Task />
+      <List />
     </div>
   );
 }

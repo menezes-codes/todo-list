@@ -1,11 +1,11 @@
 import { Button, Buttons, Container, Text } from "./styles";
 
-const Task = () => {
+const Task = ({ title, description }) => {
   return (
     <Container>
       <Text>
-        <h2>Organizar documentos</h2>
-        <p>Separar e arquivar os documentos antigos e categorizá-los.</p>
+        <h2>{title}</h2>
+        <p>{description}</p>
       </Text>
       <Buttons>
         <Button color="var(--color-edit)">EDIT</Button>
